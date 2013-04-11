@@ -17,7 +17,7 @@
     "async-resource": "0.0.1",
     "passport-local": "~0.1.6",
     "toobusy": "~0.2.3",
-    "glob" : "~3.1.21" 
+    "glob": "~3.1.21"
   },
   "devDependencies": {},
   "scripts": {
